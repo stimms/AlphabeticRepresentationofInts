@@ -1,0 +1,4 @@
+This is a simple project which adds an extension method to Int which gives the numbers in alphabetic form.  
+
+1   -> one 
+398 -> three hundred and ninety eight
