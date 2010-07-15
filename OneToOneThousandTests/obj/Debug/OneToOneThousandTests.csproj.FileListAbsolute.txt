@@ -1,0 +1,16 @@
+C:\Users\stimms\Documents\Visual Studio 2010\Projects\onetoonethousand\OneToOneThousandTests\bin\Debug\OneToOneThousandTests.dll
+C:\Users\stimms\Documents\Visual Studio 2010\Projects\onetoonethousand\OneToOneThousandTests\bin\Debug\OneToOneThousandTests.pdb
+C:\Users\stimms\Documents\Visual Studio 2010\Projects\onetoonethousand\OneToOneThousandTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\stimms\Documents\Visual Studio 2010\Projects\onetoonethousand\OneToOneThousandTests\obj\Debug\OneToOneThousandTests.dll
+C:\Users\stimms\Documents\Visual Studio 2010\Projects\onetoonethousand\OneToOneThousandTests\obj\Debug\OneToOneThousandTests.pdb
+C:\Users\stimms\Documents\Visual Studio 2010\Projects\onetoonethousand\OneToOneThousandTests\bin\Debug\onetoonethousand.exe
+C:\Users\stimms\Documents\Visual Studio 2010\Projects\onetoonethousand\OneToOneThousandTests\bin\Debug\log4net.dll
+C:\Users\stimms\Documents\Visual Studio 2010\Projects\onetoonethousand\OneToOneThousandTests\bin\Debug\onetoonethousand.pdb
+C:\Users\stimms\Documents\Visual Studio 2010\Projects\onetoonethousand\onetoonethousand\OneToOneThousandTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\stimms\Documents\Visual Studio 2010\Projects\onetoonethousand\onetoonethousand\OneToOneThousandTests\obj\Debug\OneToOneThousandTests.dll
+C:\Users\stimms\Documents\Visual Studio 2010\Projects\onetoonethousand\onetoonethousand\OneToOneThousandTests\obj\Debug\OneToOneThousandTests.pdb
+C:\Users\stimms\Documents\Visual Studio 2010\Projects\onetoonethousand\onetoonethousand\OneToOneThousandTests\bin\Debug\OneToOneThousandTests.dll
+C:\Users\stimms\Documents\Visual Studio 2010\Projects\onetoonethousand\onetoonethousand\OneToOneThousandTests\bin\Debug\OneToOneThousandTests.pdb
+C:\Users\stimms\Documents\Visual Studio 2010\Projects\onetoonethousand\onetoonethousand\OneToOneThousandTests\bin\Debug\onetoonethousand.exe
+C:\Users\stimms\Documents\Visual Studio 2010\Projects\onetoonethousand\onetoonethousand\OneToOneThousandTests\bin\Debug\log4net.dll
+C:\Users\stimms\Documents\Visual Studio 2010\Projects\onetoonethousand\onetoonethousand\OneToOneThousandTests\bin\Debug\onetoonethousand.pdb
