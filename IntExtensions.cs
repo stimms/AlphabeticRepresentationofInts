@@ -14,7 +14,7 @@ namespace onetoonethousand
             currentNumber = ProcessHundreds(i, currentNumber);
             currentNumber = ProcessTens(i, currentNumber);
             currentNumber = ProcessUnits(i, currentNumber);
-            return currentNumber;
+            return currentNumber.Trim();
         }
 
         private static string ProcessUnits(int i, string currentNumber)
@@ -44,9 +44,9 @@ namespace onetoonethousand
             if (i >= 100 && i % 1000 > 0)
             {
                 currentNumber = AddOneToTen(i / 100, currentNumber);
-                currentNumber += "hundred";
+                currentNumber += "hundred ";
                 if (i % 100 != 0)
-                    currentNumber += "and";
+                    currentNumber += "and ";
             }
             return currentNumber;
         }
@@ -56,7 +56,7 @@ namespace onetoonethousand
             if (i >= 1000)
             {
                 currentNumber = AddOneToTen(i / 1000, currentNumber);
-                currentNumber += "thousand";
+                currentNumber += "thousand ";
             }
             return currentNumber;
         }
@@ -104,28 +104,28 @@ namespace onetoonethousand
             switch ((i / 10) % 10)
             {
                 case 2:
-                    currentNumber += "twenty";
+                    currentNumber += "twenty ";
                     break;
                 case 3:
-                    currentNumber += "thirty";
+                    currentNumber += "thirty ";
                     break;
                 case 4:
-                    currentNumber += "fourty";
+                    currentNumber += "fourty ";
                     break;
                 case 5:
-                    currentNumber += "fifty";
+                    currentNumber += "fifty ";
                     break;
                 case 6:
-                    currentNumber += "sixty";
+                    currentNumber += "sixty ";
                     break;
                 case 7:
-                    currentNumber += "seventy";
+                    currentNumber += "seventy ";
                     break;
                 case 8:
-                    currentNumber += "eighty";
+                    currentNumber += "eighty ";
                     break;
                 case 9:
-                    currentNumber += "ninety";
+                    currentNumber += "ninety ";
                     break;
 
             }
@@ -137,31 +137,31 @@ namespace onetoonethousand
             switch (i % 10)
             {
                 case 1:
-                    currentNumber += "one";
+                    currentNumber += "one ";
                     break;
                 case 2:
-                    currentNumber += "two";
+                    currentNumber += "two ";
                     break;
                 case 3:
-                    currentNumber += "three";
+                    currentNumber += "three ";
                     break;
                 case 4:
-                    currentNumber += "four";
+                    currentNumber += "four ";
                     break;
                 case 5:
-                    currentNumber += "five";
+                    currentNumber += "five ";
                     break;
                 case 6:
-                    currentNumber += "six";
+                    currentNumber += "six ";
                     break;
                 case 7:
-                    currentNumber += "seven";
+                    currentNumber += "seven ";
                     break;
                 case 8:
-                    currentNumber += "eight";
+                    currentNumber += "eight ";
                     break;
                 case 9:
-                    currentNumber += "nine";
+                    currentNumber += "nine ";
                     break;
             }
             return currentNumber;

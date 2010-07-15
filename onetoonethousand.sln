@@ -3,14 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "onetoonethousand", "onetoonethousand.csproj", "{48BB1A96-1908-4B40-ABF8-CFABBD80AE4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneToOneThousandTests", "..\OneToOneThousandTests\OneToOneThousandTests.csproj", "{4E97D001-8AEF-4A0C-BBE5-A825FC418F0A}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FADB8A95-C1D1-4FD3-81D9-7901809D4F35}"
 	ProjectSection(SolutionItems) = preProject
 		Local.testsettings = Local.testsettings
 		onetoonethousand.vsmdi = onetoonethousand.vsmdi
 		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneToOneThousandTests", "OneToOneThousandTests\OneToOneThousandTests.csproj", "{4E97D001-8AEF-4A0C-BBE5-A825FC418F0A}"
 EndProject
 Global
 	GlobalSection(TestCaseManagementSettings) = postSolution

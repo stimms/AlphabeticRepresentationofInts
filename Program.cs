@@ -21,7 +21,7 @@ namespace onetoonethousand
 
             foreach (String s in alphabeticalRepresentations)
                 log.Debug(s);
-            Console.WriteLine(alphabeticalRepresentations.Sum(b => b.Length));
+            Console.WriteLine(alphabeticalRepresentations.Sum(b => b.Replace(" ","").Length));
             Console.ReadLine();
         }
 
